@@ -8,3 +8,9 @@ Se nesesita python, crear un ambiente e instalar las libreriass del **requiremen
 
 ## Uso
 Se usa por medio del notebook **Sentense_similarity.ipynb** el cual utiliza las frases pre configuradas en el archivo **Policia_cat.xlsx** y extrae las 5 mas similares en comparacion a la frase que se ingreso en la variable `prueba`, aun esta version no categoriza.
+
+Tambien puede ejecutarlo por medio del comando: 
+
+`python Police_cat.py --f "la frase que desea probar"`
+
+y este devolvera la categoria de la mas similar.
