@@ -14,3 +14,13 @@ Tambien puede ejecutarlo por medio del comando:
 `python Police_cat.py --f "la frase que desea probar"`
 
 y este devolvera la categoria de la mas similar.
+
+
+## Uso SaaS
+
+para este se debe ejecutar
+
+`streamlit run streamlit2.py`
+
+de esta forma la aplicación empieza a ejecutarse como un FE
+
