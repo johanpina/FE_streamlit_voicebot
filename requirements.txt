@@ -2,3 +2,7 @@ pandas
 numpy
 sentence_transformers
 openpyxl
+streamlit
+sounddevice
+streamlit-audiorecorder
+openai-whisper
